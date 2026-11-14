@@ -29,6 +29,17 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/topics/chrome-theme"><img src="https://img.shields.io/badge/topic-chrome--theme-FFEBF3?style=flat-square&logoColor=D44B8B" alt="chrome-theme" /></a>
+  <a href="https://github.com/topics/google-chrome"><img src="https://img.shields.io/badge/topic-google--chrome-FFEBF3?style=flat-square&logoColor=D44B8B" alt="google-chrome" /></a>
+  <a href="https://github.com/topics/browser-theme"><img src="https://img.shields.io/badge/topic-browser--theme-FFEBF3?style=flat-square&logoColor=D44B8B" alt="browser-theme" /></a>
+  <a href="https://github.com/topics/kawaii"><img src="https://img.shields.io/badge/topic-kawaii-FFEBF3?style=flat-square&logoColor=D44B8B" alt="kawaii" /></a>
+  <a href="https://github.com/topics/pastel"><img src="https://img.shields.io/badge/topic-pastel-FFEBF3?style=flat-square&logoColor=D44B8B" alt="pastel" /></a>
+  <a href="https://github.com/topics/pink-theme"><img src="https://img.shields.io/badge/topic-pink--theme-FFEBF3?style=flat-square&logoColor=D44B8B" alt="pink-theme" /></a>
+  <a href="https://github.com/topics/aesthetic"><img src="https://img.shields.io/badge/topic-aesthetic-FFEBF3?style=flat-square&logoColor=D44B8B" alt="aesthetic" /></a>
+</p>
+
+---
 ### ✨ Features
 
 - 🌸 **Delicate Frame & Tabs**: Soft blush window frame, clear active tab contrast, and gentle pastel inactive tabs.
